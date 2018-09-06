@@ -110,6 +110,7 @@ Prerequisites:
 * **pip** is an installer tool for Python.  It gets automatically installed with Python 2.7.9 or higher, or Python 3.4 or higher
 
 Installing from your Python root directory::
+   
    $ pip install -U pip
    $ pip install sphinx
    ...
